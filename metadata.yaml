@@ -1,0 +1,38 @@
+_repo: Virginia-of-Virginia-A-Story_53838
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Frost, A. B. (Arthur Burdett)
+    alias: Frost, Arthur Burdett
+    birthdate: 1851
+    deathdate: 1928
+    gutenberg_agent_id: '24799'
+    url: http://www.gutenberg.org/2009/agents/24799
+    wikipedia: http://en.wikipedia.org/wiki/A._B._Frost
+creator:
+  author:
+    agent_name: Rives, Amélie
+    aliases:
+    - Troubetzkoy, Amélie Louise Rives
+    - Chandler, Amélie Rives
+    - Rives, Amelie
+    birthdate: 1863
+    deathdate: 1945
+    gutenberg_agent_id: '31939'
+    url: http://www.gutenberg.org/2009/agents/31939
+    wikipedia: http://en.wikipedia.org/wiki/Am%C3%A9lie_Rives_Troubetzkoy
+description: ''
+gutenberg_issued: '2016-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53838'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Virginia -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Virginia of Virginia: A Story'
+url: http://www.gutenberg.org/ebooks/53838
