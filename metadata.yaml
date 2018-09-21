@@ -1,5 +1,5 @@
 _repo: Virginia-of-Virginia-A-Story_53838
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Frost, A. B. (Arthur Burdett)
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '24799'
     url: http://www.gutenberg.org/2009/agents/24799
     wikipedia: http://en.wikipedia.org/wiki/A._B._Frost
+covers:
+- cover_type: archival
+  image_path: 53838-h/images/cover.jpg
 creator:
   author:
     agent_name: Rives, Amélie
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31939
     wikipedia: http://en.wikipedia.org/wiki/Am%C3%A9lie_Rives_Troubetzkoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53838#Virginia-of-Virginia-A-Story
 gutenberg_issued: '2016-12-30'
 gutenberg_type: Text
 identifiers:
